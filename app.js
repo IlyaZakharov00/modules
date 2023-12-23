@@ -1,7 +1,7 @@
 const game = new Game();
 game.start();
 import {
-  Game,
+  defaultData,
   GameSavingData,
   readGameSaving as loadGame,
   writeGameSaving as saveGame,

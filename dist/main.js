@@ -1,1 +1,1 @@
-console.log("its works!");
+(()=>{"use strict";(new Game).start()})();
